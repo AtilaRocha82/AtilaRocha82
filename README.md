@@ -1,6 +1,8 @@
 Átila A Rocha.
-Começando na área de Programação, Front End.
-Atualmente estou aprendendo e criando projetos com HTML, CSS e iniciando aprendizado em JavaScript e React.
-Tenho 41 anos.
-Sou do Rio de Janeiro.
+Sou um Programador Front End.
+Atualmente estou aprendendo e criando projetos com:
+<br>
+<br>
+  - <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html-logo" /> 
+  - <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css-logo" />
 
